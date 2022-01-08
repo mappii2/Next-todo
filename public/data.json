@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "checkboxFlag": false,
+    "name": "買い物",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  },
+  {
+    "id": 2,
+    "checkboxFlag": false,
+    "name": "ゲーム",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  },
+  {
+    "id": 3,
+    "checkboxFlag": false,
+    "name": "宿題",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  },
+  {
+    "id": 4,
+    "checkboxFlag": false,
+    "name": "家事",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  },
+  {
+    "id": 5,
+    "checkboxFlag": false,
+    "name": "郵便局",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  },
+  {
+    "id": 6,
+    "checkboxFlag": false,
+    "name": "デート",
+    "finFlag": false,
+    "modalFlag": false,
+    "changeFlag": false,
+    "newList": ""
+  }
+]
