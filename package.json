@@ -5,12 +5,15 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "lint": "next lint"
   },
   "dependencies": {
     "axios": "^0.24.0",
     "axos": "^0.0.1",
     "babel-plugin-styled-components": "^2.0.2",
+    "eslint": "^8.6.0",
+    "eslint-config-next": "^12.0.7",
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2",
